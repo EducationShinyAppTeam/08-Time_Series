@@ -1,6 +1,6 @@
 [submodule "Time_Series_Models"]
 	path = Time_Series_Models
-	url = https://github.com/EducationShinyAppTeam/Time_Series_Models
+	url = ../Time_Series_Models
 [submodule "Time_Series_Decomposition"]
 	path = Time_Series_Decomposition
-	url = https://github.com/EducationShinyAppTeam/Time_Series_Decomposition
+	url = ../Time_Series_Decomposition
